@@ -1,0 +1,16 @@
+query,issue_type,complexity,response
+Where is my shipment?,Shipping,Simple,Track your shipment using following link:https://vendorcentral.amazon.com/hz/vendor/shipmenttracker
+How to update product price?,Catalog,Simple,You can update price by following path: Item>edit item cost
+Payment not received for last order,Payment,Complex,Please contact payment support team for payment investigation
+Unable to upload product images,Catalog,Complex,"Clear chache and try again. If still facing technical issue, please raise a case to core&catalog support team "
+How long does delivery take?,Shipping,Simple,Standard delivery takes 3-5 business days
+Return request completed?,Returns,Simple,You can check return status in your orders>return page
+Refund not processed,Returns,Complex,Please contact support for refund processing issue and make sure you have invoice with you
+How to add new product?,Catalog,Simple,Go to items>Add product>download spreadsheet
+Shipment delayed,Shipping,Complex,"Delay requires investigation, please raise a case"
+Can I cancel my order?,Returns,Simple,"Yes, orders can be cancelled from PO orders section before shipping"
+Product listing not visible,Catalog,Complex,"Requires backend check, please contact support"
+Where to check sales report?,Catalog,Simple,Sales report available in analytics dashboard
+Payment failed multiple times,Payment,Complex,Payment issue requires support assistance
+Order delivered but not updated,Shipping,Complex,Please contact support for delivery update issue
+what is Product bullet point requirements?,Catalog,Simple,Check the follow help page link:https://vendorcentral.amazon.com/hz/vendor/members/support/help/node
